@@ -1,0 +1,12 @@
+.pagina{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    width: 100vh;
+    flex-direction: column;
+}
+
+p{
+    font-size: 2em;
+}
